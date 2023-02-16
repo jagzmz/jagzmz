@@ -82,15 +82,21 @@
 <br/>  
 
 
-## Github Stats  
+## Github Stats
+
 <div align="center">
-  <img width="53%" src="https://github-readme-stats.vercel.app/api?username=jagzmz&show_icons=true&count_private=true&hide_border=true" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagzmz&hide_border=true&layout=compact" />
+  <img height="200px" src="https://streak-stats.demolab.com?user=jagzmz&hide_border=true"/>
 </div>  
 
-<br/>
-<br/>
-<br/>
+
+<div align="center">
+  <img align="left" height="200px" src="https://github-readme-stats.vercel.app/api?username=jagzmz&show_icons=true&count_private=true&card_width=450px&hide_border=true" />
+  <img align="right" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagzmz&layout=compact&card_width=350px&hide_border=true" />
+</div>  
+
+<br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> 
+
+<hr height="1px"/>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=jagzmz&&style=flat-square" align="center" />
