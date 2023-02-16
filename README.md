@@ -74,11 +74,11 @@
 
 
 <div align="center">
-  <img align="left" height="200px" src="https://github-readme-stats.vercel.app/api?username=jagzmz&show_icons=true&count_private=true&card_width=450px&hide_border=true" />
-  <img align="right" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagzmz&layout=compact&card_width=350px&hide_border=true" />
+  <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=jagzmz&show_icons=true&count_private=true&card_width=450px&hide_border=true" />
+  <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagzmz&layout=compact&card_width=350px&hide_border=true" />
 </div>  
 
-<br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> 
+<br/> <br/> <br/>
 
 ## Connect with me  
 <div align="center" style="height: 200px">
