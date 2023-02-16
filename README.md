@@ -61,22 +61,6 @@
 </div>
 
 </td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
-<div align="center">
-  <a href="https://github.com/jagzmz" target="_blank">
-    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="width=100%;" />
-  </a>
-  <a href="https://twitter.com/jagzmz" target="_blank">
-    <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://linkedin.com/in/mjagz" target="_blank">
-    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-  </a>  
-</div>  
   
 
 <br/>  
@@ -96,7 +80,20 @@
 
 <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> 
 
-<hr height="1px"/>
+## Connect with me  
+<div align="center" style="height: 200px">
+  <a href="https://github.com/jagzmz" target="_blank" height="200px">
+    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="width=100%;" />
+  </a>
+  <a href="https://twitter.com/jagzmz" target="_blank">
+    <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://linkedin.com/in/mjagz" target="_blank">
+    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  </a>  
+</div>  
+
+##          
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=jagzmz&&style=flat-square" align="center" />
