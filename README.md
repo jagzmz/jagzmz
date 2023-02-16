@@ -74,8 +74,8 @@
 
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jagzmz&show_icons=true&count_private=truex&hide_border=true" />
-  <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagzmz&layout=compact&hide_border=true" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=jagzmz&show_icons=true&count_private=truex&hide_border=true" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagzmz&layout=compact&hide_border=true&card_width=400px" />
 </div>  
 
 <br/> <br/> <br/>
