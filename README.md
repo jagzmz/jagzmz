@@ -4,8 +4,6 @@
   
 
 ### <div align="center">I'm Mahesh, a full-time full-stack developer 👨‍💻 working remotely since 2020 🚀</div>  
-  
-- 🔭 I’m currently working on [PlaygroundApp](https://playgroundapp.com)
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
