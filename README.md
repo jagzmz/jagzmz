@@ -3,12 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Mahesh, a full-time full-stack developer 👨‍💻 working remotely since 2020 🚀</div>  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
+### <div align="center">I'm Mahesh, a full-time full-stack developer 👨‍💻 working remotely since 2020 🚀</div>
   
 
 <br/>  
