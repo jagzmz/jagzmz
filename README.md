@@ -1,97 +1,74 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 60%" />
-</div>  
-  
+# Hi, I’m Mahesh Jaganiya 👋
 
-### <div align="center">I'm Mahesh, a full-time full-stack developer 👨‍💻 working remotely since 2020 🚀</div>
-  
+📍 India · 💻 Full-Stack Developer · 🌐 [maheshjaganiya.dev](https://maheshjaganiya.dev)
 
-<br/>  
+Building for the Web & AI.  
+I turn complex problems into simple, scalable, and well-structured software.
 
+---
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+## 🚀 About
 
+I’m Mahesh Jaganiya, a Full-Stack Developer based in India with 6+ years of experience building modern web applications and data-intensive systems.
 
+I currently work as a **Senior Full Stack Developer at MithyaLabs**, where I focus on architecting AI-driven applications, working with graph databases, and building autonomous agents that solve real problems.
 
-### Frontend  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://www.electronjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" /></a>  
-<a href="https://www.cordova.apache.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cordova.png" alt="Cordova" height="50" /></a>  
-<a href="http://getbem.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bem.svg" alt="BEM" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-</div>
+I’m especially interested in AI systems, knowledge engineering, graph modeling, scalable backend architecture, and modern web interfaces.
 
-</td><td valign="top" width="33%">
+---
 
+## 🧰 Tech Stack
 
+- 💻 **Languages:** JavaScript, TypeScript
+- 🎨 **Frontend:** React, Next.js
+- ⚙️ **Backend:** Node.js, NestJS
+- 🗄️ **Databases:** PostgreSQL, MongoDB, Neo4j, Neptune, Redis
+- 🔎 **Search & Knowledge:** Elasticsearch, JSON-LD, SPARQL
+- 🚢 **DevOps & Infra:** Docker, Kubernetes
 
-### Backend  
-<div align="center">  
-<a href="https://nestjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>  
-<a href="https://www.rabbitmq.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rabbitmq-icon.svg" alt="RabbitMQ" height="50" /></a>  
-<a href="https://www.elastic.co/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/elasticsearch.png" alt="Elastic Search" height="50" /></a>  
-<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-</div>
+---
 
-</td><td valign="top" width="33%">
+## 🎯 Current Focus
 
+- 🤖 AI-driven products and agentic systems
+- 🧠 Knowledge graphs, ontologies, and linked data
+- 🔎 RAG pipelines and intelligent retrieval systems
+- ⚙️ Scalable backend services and APIs
+- 🌐 Fast, clean, and accessible web applications
 
+---
 
-### DevOps  
-<div align="center">  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>
-</div>
+## 🧠 What I Enjoy Building
 
-</td></tr></table>  
-  
+- 🔗 **Graph & Ontology** — Modeling complex relationships and connected knowledge systems.  
+  *Neo4j, RDF, AWS Neptune, SPARQL, JSON-LD*
 
-<br/>  
+- 🤖 **AI & Agents** — Building autonomous agents, RAG systems, and intelligent workflows.  
+  *LLMs, Agents, RAG, Vectors*
 
+- ⚙️ **Backend Systems** — Designing scalable APIs and high-performance application architectures.  
+  *Node.js, NestJS, Microservices*
 
-## Github Stats
+- 🎨 **Modern UI** — Creating clean, responsive, and accessible interfaces for the web.  
+  *React, Next.js, Tailwind*
 
-<div align="center">
-  <img height="200px" src="https://streak-stats.demolab.com?user=jagzmz&hide_border=true"/>
-</div>  
+---
 
+## 🛠️ Open Source & Experiments
 
-<div align="center">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=jagzmz&show_icons=true&count_private=truex&hide_border=true" />
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagzmz&layout=compact&hide_border=true&card_width=300px" />
-</div>  
+When I’m not building products, I’m usually exploring ideas through open-source tools and side projects.
 
-<br/> <br/> <br/>
+A few recent experiments:
 
-## Connect with me  
-<div align="center" style="height: 200px">
-  <a href="https://github.com/jagzmz" target="_blank" height="200px">
-    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="width=100%;" />
-  </a>
-  <a href="https://twitter.com/jagzmz" target="_blank">
-    <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://linkedin.com/in/mjagz" target="_blank">
-    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-  </a>  
-</div>  
+- **sitemap-sage** — intelligent scraping powered by sitemaps and Jina AI
+- **JSON2Cypher** — converts JSON data into Neo4j Cypher queries
+- **OpenAI Codex MCP** — bringing Model Context Protocol workflows to the CLI
 
-##          
+---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=jagzmz&&style=flat-square" align="center" />
-</div>  
-<br/>
-<br/>
+## 🌍 Connect
 
+- 🌐 [Website](https://maheshjaganiya.dev)
+- 🐙 [GitHub](https://github.com/jagzmz)
+- 🐦 [X / Twitter](https://x.com/jagzmz)
+- 💼 [LinkedIn](https://linkedin.com/in/mjagz)
