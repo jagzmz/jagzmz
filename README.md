@@ -3,7 +3,6 @@
 📍 India · 💻 Full-Stack Developer · 🌐 [maheshjaganiya.dev](https://maheshjaganiya.dev)
 
 Building for the Web & AI.  
-I turn complex problems into simple, scalable, and well-structured software.
 
 ---
 
